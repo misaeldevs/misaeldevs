@@ -23,7 +23,7 @@ const githubAbout = {
     location: "Brasil - Aracaju/SE",
   },
   hardSkills: {
-    languages: ["Javascript", "Typescript", "CSS3", "HTML5"],
+    languages: ["Javascript", "PHP" "Typescript", "CSS3", "HTML5"],
     frameworks: ["ReactJS", "VueJS", "Angular", "Bootstrap"],
     softwares: ["Adobe Photoshop", "Adobe Illustrator", "Adobe XD", "Figma"],
     CMS: ["Wordpress"]
